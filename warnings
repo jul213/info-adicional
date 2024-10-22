@@ -1,0 +1,3 @@
+manejar warnings
+
+@suppresswarnings("") dentro el tipo a utilizar de warning
