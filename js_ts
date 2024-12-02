@@ -1,5 +1,9 @@
-persistencia de datos en js igual que en ts el codigo se traspila por lo que al final el codigo ts se traduce a js para que pueda ser utilizado
+---persistencia de datos en js igual que en ts el codigo se traspila por lo que al final el codigo ts se traduce a js para que pueda ser utilizado
 
-tienen sus diferencias por ejemplo ts tipado fuerte y js debil
+---tienen sus diferencias por ejemplo ts tipado fuerte y js debil
 
--ts tiene una mejor integracion de la poo que js
+---ts tiene una mejor integracion de la poo que js
+
+---es mas utilizado ts que js
+
+---
